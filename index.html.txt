@@ -1,5 +1,11 @@
-<body>
-	<h1>
-		"Muhammed Enes Çatalbaş 02220224015 Bu bir sınav sayfasıdır"
-	<h1>
-<body>
+<!DOCKTYPE html>
+	<head>
+		<title>Title</title>
+	</head>
+		
+	<body>
+		<h1>
+			"Muhammed Enes Çatalbaş 02220224015 Bu bir sınav sayfasıdır"
+		</h1>
+	</body>
+</html>
